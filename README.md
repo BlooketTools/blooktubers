@@ -1,2 +1,2 @@
 # Blooktubers
-[Website](blookettools.github.io/blooktubers/)
+[Website](https://blookettools.github.io/blooktubers/)
